@@ -1,0 +1,7 @@
+config.json*
+*.log*
+*.err*
+config.txt*
+badwords.txt*
+ipbanlist.txt*
+logs/*

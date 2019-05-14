@@ -1,0 +1,20 @@
+                       ┌────────────────────────────┐
+                       │ LIST OF COMMAND SHORTCUTS  │
+┌──────────────────────┴──────┬─────────────────────┴──────────────────────┐
+│ st                          │ Alias for status of server                 │
+│ pl                          │ Alias for playerlist                       │
+│ m                           │ Alias for mass                             │
+│ sm                          │ Alias for spawnmass                        │
+│ ka                          │ Alias for killall                          │
+│ k                           │ Alias for kill                             │
+│ mg                          │ Alias for merge                            │
+│ s                           │ Alias for speed                            │
+│ mn                          │ Alias for minion                           │
+│ f                           │ Alias for freeze                           │
+│ ab                          │ Alias for addbot                           │
+│ kb                          │ Alias for kickbot                          │
+│ c                           │ Alias for change                           │
+│ n                           │ Alias for name                             │
+│ rep                         │ Alias for replace                          │
+| e                           | Alias for explode                          |
+└─────────────────────────────┴────────────────────────────────────────────┘
